@@ -3,3 +3,6 @@ pandas
 openpyxl
 jupyter
 networkx
+matplotlib
+scipy
+scikit-learn
